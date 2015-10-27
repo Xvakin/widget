@@ -1,0 +1,1 @@
+Slider widget in pure CSS and HTML. Demo: http://xvakin.ru/clipkit-widget/

@@ -201,6 +201,6 @@ body * {
     width: 4px;
 }
 
-.widget-label.m-active {
+.widget-slide-label.m-active {
     color: #e64300;
 }
